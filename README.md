@@ -169,7 +169,7 @@
 
 #### BookList
 
-本仓库参考的书目：[BOOKLIST](https://github.com/csrftoken/Interview-Notebook/blob/master/BOOKLIST.md)。
+本仓库参考的书目：[BOOKLIST](https://github.com/csrftoken/CS-Notes/blob/master/BOOKLIST.md)。
 
 #### How To Contribute
 
